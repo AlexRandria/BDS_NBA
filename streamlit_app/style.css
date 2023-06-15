@@ -1,0 +1,97 @@
+h1,
+h2,
+h3,
+h4 {
+  color: #000000;
+}
+
+code {
+  color: #1ec3bc;
+}
+
+#MainMenu {
+  display: none;
+}
+
+div[data-testid="stDecoration"] {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+/* Radio buttons */
+
+.st-cc {
+  color: black;
+  font-weight: 500;
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"] > div {
+  background-color: #aa7644;
+  padding-top: 2rem;
+  background-image: url("https://static.vecteezy.com/ti/vecteur-libre/p3/4577810-groupe-de-basket-ball-balls-vector-wallpaper-with-copy-space-vectoriel.jpg");
+  padding-left: 1.5rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+section[data-testid="stSidebar"] button[title="View fullscreen"] {
+  display: none;
+}
+
+section[data-testid="stSidebar"] button[kind="icon"] {
+  display: none;
+}
+
+section[data-testid="stSidebar"] .st-c0 {
+  color: white;
+}
+
+section[data-testid="stSidebar"] hr {
+  margin-top: 30px;
+  border-color: white;
+  width: 50px;
+}
+
+section[data-testid="stSidebar"] h2 {
+  color: white;
+}
+
+.css-1y4p8pa {
+  max-width: 60rem;
+}
+
+/* Images */
+
+button[title="View fullscreen"] {
+  display: none;
+}
+
+/* hr */
+
+hr {
+  width: 200px;
+  border-width: 5px;
+  border-color: #10b8dd;
+  margin-top: 0px;
+}
+
+/* First Page */
+
+section[tabindex="0"] .block-container {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.css-1kyxreq {
+  justify-content: center;
+}
+
+.block-container {
+  margin-bottom: 50px;
+}
